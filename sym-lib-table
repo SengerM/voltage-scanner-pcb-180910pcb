@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 180919PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/180919PCB-rescue.lib)(options "")(descr ""))
+  (lib (name custom_components)(type Legacy)(uri "/home/alf/Dropbox/INTI/Proyecto scanner/Mis cosas/Circuitos/M2C/custom_components.lib")(options "")(descr ""))
+)
